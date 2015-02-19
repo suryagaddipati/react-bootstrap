@@ -24,9 +24,6 @@
   ],
   "author": "Stephen J. Collings <stevoland@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "react": ">=0.12"
-  },
   "devDependencies": {
     "async": "~0.2.9",
     "envify": "~1.2.1",
